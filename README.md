@@ -29,9 +29,10 @@ Java I/O for file handling
 <br>
 Event Handling for user interactions
 <br>
+<br>
 Project Structure <br>
-Notepad-Clone/
-│-- src/
-│   │-- FullNotepadClone.java
-│   │-- ...
-│-- README.md
+<br>Notepad-Clone/<br>
+│-- src/<br>
+│   │-- FullNotepadClone.java<br>
+│   │-- ...<br>
+│-- README.md<br>
